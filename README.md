@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHANIBCK. Iam a Mearn stack developer
+- 👋 Hi, I’m @SHANIBCK. Iam a Mern stack developer
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning DIPLOMA IN COMPUTER ENGINEERING 
 - 💞️ I’m looking to collaborate on ...
